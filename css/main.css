@@ -1,0 +1,12 @@
+body{
+   background-color: crimson;
+}
+h1{
+   color: darkblue;
+   text-align: center;
+}
+h2{
+   color: blue;
+   border: 2px;
+   text-align: center;
+}
